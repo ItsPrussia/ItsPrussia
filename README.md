@@ -1,5 +1,4 @@
 <h1>Hello 👋</h1>
-<hr>
 <ul>
   <li>👋 Hi, I’m @ItsPrussia</li>
   <li>👀 I’m interested in ?? </li>
